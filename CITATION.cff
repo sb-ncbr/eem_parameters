@@ -6,51 +6,71 @@ title: >-
   High-quality and universal empirical atomic charges for
   chemoinformatics applications
 message: >-
-  If you use these parameters, please cite the following
-  paper.
+   Please cite this dataset using the metadata from
+   'preferred-citation'.
 type: dataset
 authors:
   - given-names: Stanislav
     family-names: Geidl
-    email: geidl@mail.muni.cz
   - given-names: Tomáš
     family-names: Bouchal
-    email: tbouchal@mail.muni.cz
   - given-names: Tomáš
     family-names: Raček
-    email: krab1k@mail.muni.cz
+    orcid: 'https://orcid.org/0000-0002-0296-2452'
+  - given-names: Radka
+    family-names: Svobodová Vařeková
+    orcid: 'https://orcid.org/0000-0002-3840-8760'
+  - given-names: Václav
+    family-names: Hejret
+  - given-names: Aleš
+    family-names: Křenek
+    orcid: 'https://orcid.org/0000-0002-3395-3196'
+  - given-names: Ruben
+    family-names: Abagyan
+    orcid: 'https://orcid.org/0000-0001-9309-2976'
+  - given-names: Jaroslav
+    family-names: Koča
+    orcid: 'https://orcid.org/0000-0002-2780-4901'
+keywords:
+  - partial atomic charges
+  - EEM
+  - parameters
+  - quantum mechanics
+  - QM
+  - drug-like molecules
+  - Electronegativity Equalization Method
+license: CC-BY-4.0
+preferred-citation:
+  authors:
+  - given-names: Stanislav
+    family-names: Geidl
+  - given-names: Tomáš
+    family-names: Bouchal
+  - given-names: Tomáš
+    family-names: Raček
     orcid: 'https://orcid.org/0000-0002-0296-2452'
     affiliation: Masaryk University
   - given-names: Radka
     family-names: Svobodová Vařeková
     orcid: 'https://orcid.org/0000-0002-3840-8760'
-    email: radka.svobodova@mail.muni.cz
-    affiliation: Masaryk University
   - given-names: Václav
     family-names: Hejret
-    email: 408320@mail.muni.cz
-    affiliation: Masaryk University
   - given-names: Aleš
     family-names: Křenek
-    email: ljocha@mail.muni.cz
-    affiliation: Masaryk University
     orcid: 'https://orcid.org/0000-0002-3395-3196'
   - given-names: Ruben
     family-names: Abagyan
-    affiliation: Skaggs School of Pharmacy and Pharmaceutical Sciences
-    email: rabagyan@health.ucsd.edu
     orcid: 'https://orcid.org/0000-0001-9309-2976'
   - given-names: Jaroslav
     family-names: Koča
-    affiliation: Masaryk University
     orcid: 'https://orcid.org/0000-0002-2780-4901'
-identifiers:
-  - type: doi
-    value: 10.1186/s13321-015-0107-1
-    description: Journal paper
-repository: 'https://github.com/sb-ncbr/eem_parameters'
-keywords:
-  - partial atomic charges
-  - EEM
-  - parameters
-license: CC-BY-4.0
+  title: >-
+    High-quality and universal empirical atomic charges 
+    for chemoinformatics application
+  type: article
+  doi: 10.1186/s13321-015-0107-1
+  journal: Journal of Cheminformatics
+  issue: 1
+  volume: 7
+  year: 2015
+  month: 12
